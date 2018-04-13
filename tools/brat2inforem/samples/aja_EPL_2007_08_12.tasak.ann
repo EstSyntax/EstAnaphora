@@ -1,0 +1,196 @@
+T1	Pronoomen 10 17	sellele
+T2	Pronoomen 124 126	ta
+T3	Pronoomen 144 147	kes
+T4	Pronoomen 358 362	mida
+T5	Pronoomen 565 572	kellest
+T6	Pronoomen 712 715	mis
+T7	Pronoomen 955 960	mille
+T8	Pronoomen 1125 1129	tema
+T9	Pronoomen 1687 1689	Ta
+T10	Pronoomen 1702 1706	tema
+T11	Pronoomen 1790 1793	nad
+T12	Pronoomen 2150 2155	selle
+T13	Pronoomen 2359 2363	seda
+T14	Pronoomen 2663 2666	mis
+T15	Pronoomen 2857 2862	neist
+T16	Pronoomen 3074 3079	mille
+T17	Pronoomen 3273 3279	selles
+T18	Pronoomen 3352 3355	mis
+T19	Pronoomen 3725 3728	mis
+T20	Pronoomen 3982 3985	tal
+T21	Pronoomen 4057 4059	ta
+T22	Pronoomen 4228 4231	tal
+T23	Pronoomen 4333 4335	ta
+T24	Pronoomen 4371 4373	Me
+T25	Pronoomen 4456 4462	kellel
+T26	Pronoomen 4543 4546	nad
+T27	Pronoomen 4577 4581	mida
+T28	Pronoomen 4582 4585	nad
+T29	Pronoomen 4586 4591	neile
+T30	Pronoomen 4923 4930	sellele
+T31	Pronoomen 4936 4940	neid
+T32	Pronoomen 4964 4967	mis
+T33	Pronoomen 5024 5029	selle
+T34	Pronoomen 5303 5308	Nende
+T35	Pronoomen 5467 5472	nende
+T36	Pronoomen 6132 6136	tema
+T37	Pronoomen 7087 7091	mida
+T38	Pronoomen 7423 7426	see
+T39	Pronoomen 7791 7795	meie
+T40	Pronoomen 7824 7829	mille
+T41	Pronoomen 7951 7953	ta
+T42	Pronoomen 8123 8126	mis
+T43	Pronoomen 8415 8420	mille
+T44	Pronoomen 8442 8445	see
+T45	Pronoomen 8803 8806	mis
+T46	Pronoomen 9019 9022	see
+T47	Pronoomen 9584 9589	kelle
+T48	Pronoomen 9848 9855	sellest
+T49	Pronoomen 10502 10508	milles
+T50	Pronoomen 10588 10592	mida
+T51	Pronoomen 10719 10724	mille
+T52	Pronoomen 11315 11319	keda
+T53	Pronoomen 11445 11448	mis
+T54	Pronoomen 11470 11476	sellel
+T55	Pronoomen 11513 11518	mulle
+T56	Pronoomen 11633 11638	nende
+T57	Pronoomen 11954 11959	mille
+T58	Pronoomen 12226 12229	kes
+T59	Pronoomen 12754 12757	sel
+T60	Pronoomen 13288 13291	sel
+T61	Pronoomen 13481 13488	millest
+T62	Pronoomen 13912 13915	kes
+T63	Pronoomen 14963 14970	kellele
+T64	Pronoomen 15320 15325	talle
+T65	Pronoomen 15346 15349	mis
+T66	Pronoomen 15654 15657	kes
+T67	Pronoomen 16046 16049	kes
+T68	Pronoomen 16354 16357	mis
+T69	Pronoomen 16495 16498	kes
+T70	Pronoomen 16506 16511	talle
+T71	Pronoomen 17154 17157	kes
+T72	Viitealus 23 30	Venemaa
+R1	Coref Arg1:T2 Arg2:T72	
+T73	Viitealus 31 37	kuulub
+R2	Coref Arg1:T1 Arg2:T73	
+T74	Viitealus 133 141	liitlast
+R3	Coref Arg1:T3 Arg2:T74	
+T75	Viitealus 351 354	lii
+R4	Coref Arg1:T4 Arg2:T75	
+T76	Viitealus 548 556	liikmete
+R5	Coref Arg1:T5 Arg2:T76	
+T77	Viitealus 695 709	sõjaväeõppused
+R6	Coref Arg1:T6 Arg2:T77	
+T78	Viitealus 932 941	ühistööga
+R7	Coref Arg1:T7 Arg2:T78	
+T79	Viitealus 1103 1112	Tõmošenko
+R8	Coref Arg1:T8 Arg2:T79	
+T80	Viitealus 1563 1572	Tõmošenko
+T81	Viitealus 1714 1724	poliitikud
+R9	Coref Arg1:T11 Arg2:T81	
+R10	Coref Arg1:T9 Arg2:T80	
+R11	Coref Arg1:T10 Arg2:T80	
+T82	Viitealus 2205 2209	anda
+R12	Coref Arg1:T12 Arg2:T82	
+T83	Viitealus 2650 2660	dokumendis
+R13	Coref Arg1:T14 Arg2:T83	
+T84	Viitealus 3057 3071	pinnasemurrule
+R14	Coref Arg1:T16 Arg2:T84	
+T85	Viitealus 2829 2836	inimest
+R15	Coref Arg1:T15 Arg2:T85	
+T86	Viitealus 2313 2318	eitas
+R16	Coref Arg1:T13 Arg2:T86	
+T88	Viitealus 4156 4160	Mees
+R17	Coref Arg1:T22 Arg2:T88	
+T89	Viitealus 3342 3349	tsunami
+R18	Coref Arg1:T18 Arg2:T89	
+T90	Viitealus 3665 3671	liigub
+R19	Coref Arg1:T19 Arg2:T90	
+T91	Viitealus 3885 3889	mees
+R20	Coref Arg1:T20 Arg2:T91	
+T92	Viitealus 4035 4042	Jackson
+R21	Coref Arg1:T21 Arg2:T92	
+T93	Viitealus 4317 4321	Mehe
+R22	Coref Arg1:T23 Arg2:T93	
+T94	Viitealus 4438 4449	ameeriklase
+T95	Viitealus 4874 4882	Puutüved
+R23	Coref Arg1:T25 Arg2:T94	
+T96	Viitealus 4494 4504	McDonald's
+R24	Coref Arg1:T31 Arg2:T95	
+R25	Coref Arg1:T26 Arg2:T96	
+T97	Viitealus 4941 4950	ümbritses
+R26	Coref Arg1:T30 Arg2:T97	
+R27	Coref Arg1:T28 Arg2:T96	
+T98	Viitealus 4951 4955	kiht
+R28	Coref Arg1:T32 Arg2:T98	
+T99	Viitealus 4547 4556	klientide
+R29	Coref Arg1:T29 Arg2:T99	
+T100	Viitealus 5227 5240	sooküpresside
+R30	Coref Arg1:T34 Arg2:T100	
+T101	Viitealus 5449 5454	puude
+R31	Coref Arg1:T35 Arg2:T101	
+T104	Viitealus 6124 6129	Tamul
+R32	Coref Arg1:T36 Arg2:T104	
+T102	Viitealus 7073 7080	Peugeot
+R33	Coref Arg1:T37 Arg2:T102	
+T103	Viitealus 7377 7386	ametikoha
+R34	Coref Arg1:T38 Arg2:T103	
+T87	Viitealus 8784 8800	humanitaarkriisi
+R35	Coref Arg1:T45 Arg2:T87	
+T105	Viitealus 7812 7821	meeskonda
+R36	Coref Arg1:T40 Arg2:T105	
+T106	Viitealus 7740 7750	Pompegiani
+R37	Coref Arg1:T41 Arg2:T106	
+T107	Viitealus 13904 13909	Padar
+R38	Coref Arg1:T62 Arg2:T107	
+T108	Viitealus 16465 16470	Engel
+R39	Coref Arg1:T69 Arg2:T108	
+T109	Viitealus 16426 16431	Asmer
+R40	Coref Arg1:T70 Arg2:T109	
+T110	Viitealus 16335 16340	ringi
+#1	AnnotatorNotes T110	ilmselt
+R41	Coref Arg1:T68 Arg2:T110	
+T111	Viitealus 16004 16012	Mustonen
+R42	Coref Arg1:T67 Arg2:T111	
+T112	Viitealus 15645 15651	Soomer
+R43	Coref Arg1:T66 Arg2:T112	
+T113	Viitealus 17142 17151	Kruusmägi
+R44	Coref Arg1:T71 Arg2:T113	
+T114	Viitealus 13471 13478	riigist
+R45	Coref Arg1:T61 Arg2:T114	
+T115	Viitealus 11849 11861	assamblaažid
+R46	Coref Arg1:T57 Arg2:T115	
+#2	AnnotatorNotes T115	kahtlane
+T116	Viitealus 12201 12208;12209 12211;12217 12223	Boersma ja Ronnes
+R47	Coref Arg1:T58 Arg2:T116	
+T117	Viitealus 11438 11442	tööd
+R48	Coref Arg1:T53 Arg2:T117	
+T118	Viitealus 11304 11312	kunstnik
+R49	Coref Arg1:T52 Arg2:T118	
+T119	Viitealus 11599 11606;11607 11609;11624 11629	esemeid ja vorme
+T120	Viitealus 8112 8120	tasemele
+R50	Coref Arg1:T42 Arg2:T120	
+T121	Viitealus 8401 8412	käskkirjale
+R51	Coref Arg1:T43 Arg2:T121	
+T122	Viitealus 8342 8358	500 000 krooniga
+R52	Coref Arg1:T44 Arg2:T122	
+T123	Viitealus 8991 9005	paarsada tuhat
+R53	Coref Arg1:T46 Arg2:T123	
+#3	AnnotatorNotes R53	kahtlane
+T124	Viitealus 9573 9581	valitsus
+R54	Coref Arg1:T47 Arg2:T124	
+T125	Viitealus 9796 9806	otsustatud
+R55	Coref Arg1:T48 Arg2:T125	
+T126	Viitealus 10493 10499	avarii
+R56	Coref Arg1:T49 Arg2:T126	
+T127	Viitealus 10566 10579	Mercedes Benz
+R57	Coref Arg1:T50 Arg2:T127	
+T128	Viitealus 10709 10716	Carisma
+R58	Coref Arg1:T51 Arg2:T128	
+R59	Coref Arg1:T56 Arg2:T119	
+T129	Viitealus 14951 14960	Kuismanen
+R60	Coref Arg1:T63 Arg2:T129	
+T130	Viitealus 15160 15167	Behrens
+R61	Coref Arg1:T64 Arg2:T130	
+T131	Viitealus 15329 15343	trahvisekundit
+R62	Coref Arg1:T65 Arg2:T131	
