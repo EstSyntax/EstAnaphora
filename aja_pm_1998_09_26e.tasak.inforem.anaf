@@ -9815,7 +9815,7 @@
 "<harjutatakse>"
 	"harjuta" Ltakse V main indic pres imps af @FMV #2->0
 "<neid>"
-	"see" Ld P dem pl part @OBJ #3->2 {Pronoomen} {Coref:322.5}
+	"tema" Ld P dem pl part @OBJ #3->2 {Pronoomen} {Coref:322.5}
 "<tavapärasemast>"
 	"tava_pärasem" Lst A comp sg el @AN> #4->5
 "<menüüst>"
@@ -18911,7 +18911,7 @@
 "<et>"
 	"et" L0 J sub @J #8->16
 "<nende>"
-	"see" Lde P dem pl gen @NN> #9->10 {Pronoomen} {Coref:640.3}
+	"tema" Lde P dem pl gen @NN> #9->10 {Pronoomen} {Coref:640.3}
 "<suguvõsa>"
 	"sugu_võsa" L0 S com sg gen @NN> #10->11
 "<esivanemad>"
@@ -19041,7 +19041,7 @@
 "<õppis>"
 	"õppi" Ls V main indic impf ps3 sg ps af @FMV #3->0
 "<nende>"
-	"see" Lde P gen pl gen @NN> #4->5 {Pronoomen} {Coref:642.9,642.14}
+	"tema" Lde P dem pl gen @NN> #4->5 {Pronoomen} {Coref:642.9,642.14}
 "<poeg>"
 	"poeg" L0 S com sg nom @NN> #5->8
 "<Miguel>"
@@ -22511,7 +22511,7 @@
 "<midagi>"
 	"miski" Ldagi P indef sg part @OBJ #14->13
 "<sellist>"
-	"selline" Lt P dem sg part @<NN #15->14
+	"selline" Lt P dem sg part @<NN #15->14 {Pronoomen}
 "<,>"
 	"," Z Com #16->16
 "<mida>"
@@ -23181,7 +23181,7 @@
 "<olenemata>"
 	"olene" Lmata V main sup ps abes @ADVL #9->3
 "<nende>"
-	"see" Lde P dem pl gen @NN> #10->11 {Pronoomen} {Coref:789.8}
+	"tema" Lde P dem pl gen @NN> #10->11 {Pronoomen} {Coref:789.8}
 "<vanusest>"
 	"vanus" Lst S com sg el @ADVL #11->9
 "<või>"

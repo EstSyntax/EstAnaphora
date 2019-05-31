@@ -50594,7 +50594,7 @@
 "<kõikide>"
 	"kõik" Lde P det pl gen @NN> #15->16
 "<nende>"
-	"tema" Lde P dem pl gen @NN> #16->17
+	"see" Lde P dem pl gen @NN> #16->17
 "<pereliikmete>"
 	"pere_liige" Lte S com pl gen @NN> #17->12 {Viitealus}
 "<kindlustajariigiks>"
@@ -58016,7 +58016,7 @@
 "<kvaliteet>"
 	"kvaliteet" L0 S com sg nom @SUBJ #12->9
 "<nende>"
-	"tema" Lde P dem pl gen @NN> #13->14
+	"tema" Lde P dem pl gen @NN> #13->14 {Pronoomen} {Coref:1584.10}
 "<enesehinnangu>"
 	"enese_hinnang" L0 S com sg gen @NN> #14->15
 "<alusel>"
