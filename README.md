@@ -21,7 +21,7 @@ Programmid, mis teisendavad puudepanga formaadis faili brati märgendajale sobiv
 
 Korpuse formaat on Eesti keele sõltuvuspuude panga (EDT) oma, kuhu on lisatud asesõnade ja nende viitealuste märgendid. EDT märgendite kohta vt https://github.com/EstSyntax/EDT/blob/master/syntmargendus.pdf 
 
-##ChangeLog / Muudatused
+## ChangeLog / Muudatused
 
 - May 2019 Added/lisati 100,000 words/sõna
 
