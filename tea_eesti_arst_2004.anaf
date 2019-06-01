@@ -1323,7 +1323,7 @@
 "<tulla>"
 	"tule" La V main inf @IMV #17->2
 "<sellega>"
-	"see" Lga P dem sg kom @ADVL #18->17 {Viitealus} {Coref:35.25}
+	"see" Lga P dem sg kom @ADVL #18->17 {Viitealus} {Pronoomen} {Coref:35.25}
 "<,>"
 	"," Z Com #19->19
 "<mida>"
@@ -39470,7 +39470,7 @@
 "<kõige>"
 	"kõik" L0 P det sg gen @NN> #7->8
 "<selle>"
-	"see" L0 P dem sg gen @NN> #8->9 {Viitealus} {Coref:1074.13}
+	"see" L0 P dem sg gen @NN> #8->9 {Viitealus} {Pronoomen} {Coref:1074.13}
 "<tähenduses>"
 	"tähendus" Ls S com sg in @ADVL #9->5
 "<,>"
@@ -49760,7 +49760,7 @@
 "<s id="1337">"
 
 "<Nendele>"
-	"see" Ldele P dem pl all @ADVL #1->14 {Viitealus} {Coref:1337.12}
+	"see" Ldele P dem pl all @ADVL #1->14 {Viitealus} {Pronoomen} {Coref:1337.12}
 "<,>"
 	"," Z Com #2->2
 "<kes>"
@@ -53886,7 +53886,7 @@
 "<eelistatavalt>"
 	"eelistatavalt" L0 D @DN> #8->9
 "<neid>"
-	"see" Ld P dem pl part @<NN #9->6 {Viitealus} {Coref:1449.12}
+	"see" Ld P dem pl part @<NN #9->6 {Viitealus} {Pronoomen} {Coref:1449.12}
 "<,>"
 	"," Z Com #10->10
 "<millel>"
@@ -58016,7 +58016,7 @@
 "<kvaliteet>"
 	"kvaliteet" L0 S com sg nom @SUBJ #12->9
 "<nende>"
-	"tema" Lde P dem pl gen @NN> #13->14 {Pronoomen} {Coref:1584.10}
+	"see" Lde P dem pl gen @NN> #13->14 {Pronoomen} {Coref:1584.10}
 "<enesehinnangu>"
 	"enese_hinnang" L0 S com sg gen @NN> #14->15
 "<alusel>"

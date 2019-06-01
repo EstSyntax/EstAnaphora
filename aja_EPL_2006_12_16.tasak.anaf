@@ -705,7 +705,7 @@
 "<kõik>"
 	"kõik" L0 P det sg nom @NN> #10->11
 "<see>"
-	"see" L0 P dem sg nom @SUBJ #11->9 {Viitealus} {Coref:23.14}
+	"see" L0 P dem sg nom @SUBJ #11->9 {Viitealus} {Pronoomen} {Coref:23.14}
 "<,>"
 	"," Z Com #12->12
 "<mis>"
@@ -15943,7 +15943,7 @@
 "<on>"
 	"ole" L0 V main indic pres ps3 pl ps af @FMV #8->0
 "<see>"
-	"see" L0 P dem sg nom @PRD #9->8 {Viitealus} {Coref:429.12}
+	"see" L0 P dem sg nom @PRD #9->8 {Viitealus} {Pronoomen} {Coref:429.12}
 "<,>"
 	"," Z Com #10->10
 "<millest>"
@@ -23897,7 +23897,7 @@
 "<ka>"
 	"ka" L0 D @DN> #2->3
 "<neid>"
-	"tema" Ld P pers ps3 pl part @SUBJ #3->1 {Viitealus} {Coref:647.9}
+	"tema" Ld P pers ps3 pl part @SUBJ #3->1 {Viitealus} {Pronoomen} {Coref:647.9}
 "<,>"
 	"," Z Com #4->4
 "<kelle>"

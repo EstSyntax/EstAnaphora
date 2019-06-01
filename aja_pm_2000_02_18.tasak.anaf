@@ -4987,7 +4987,7 @@
 "<saab>"
 	"saa" Lb V main indic pres ps3 sg ps af @FMV #9->3
 "<nendest>"
-	"tema" Ldest P pers ps3 pl el @ADVL #10->9 {Viitealus} {Coref:136.18}
+	"tema" Ldest P pers ps3 pl el @ADVL #10->9 {Viitealus} {Pronoomen} {Coref:136.18}
 "<,>"
 	"," Z Com #11->11
 "<kes>"
@@ -5499,7 +5499,7 @@
 "<Üks>"
 	"üks" L0 P indef sg nom @SUBJ #1->14
 "<neistki>"
-	"see" Lstki P dem pl el @<NN #2->1 {Viitealus} {Coref:159.12}
+	"see" Lstki P dem pl el @<NN #2->1 {Viitealus} {Pronoomen} {Coref:159.12}
 "<,>"
 	"," Z Com #3->3
 "<keda>"
@@ -7515,7 +7515,7 @@
 "<toetada>"
 	"toeta" Lda V main inf @IMV #11->9
 "<neid>"
-	"tema" Ld P pers ps3 pl part @OBJ #12->9 {Viitealus} {Coref:221.16}
+	"tema" Ld P pers ps3 pl part @OBJ #12->9 {Viitealus} {Pronoomen} {Coref:221.16}
 "<,>"
 	"," Z Com #13->13
 "<kes>"
@@ -12949,7 +12949,7 @@
 "<et>"
 	"et" L0 J sub @J #6->29
 "<mina>"
-	"mina" L0 P pers ps1 sg nom @SUBJ #7->29 {Viitealus} {Coref:384.15,384.20}
+	"mina" L0 P pers ps1 sg nom @SUBJ #7->29 {Viitealus} {Pronoomen} {Coref:384.15,384.20}
 "<,>"
 	"," Z Com #8->8
 "<kes>"
@@ -43687,7 +43687,7 @@
 "<raha>"
 	"raha" L0 S com sg nom @SUBJ #13->11
 "<neile>"
-	"tema" Lle P pers ps3 pl all @ADVL #14->11 {Viitealus} {Coref:1236.18}
+	"tema" Lle P pers ps3 pl all @ADVL #14->11 {Viitealus} {Pronoomen} {Coref:1236.18}
 "<,>"
 	"," Z Com #15->15
 "<kes>"
@@ -46585,7 +46585,7 @@
 "<hulk>"
 	"hulk" L0 S com sg nom @SUBJ #13->11
 "<neid>"
-	"tema" Ld P pers ps3 pl part @<Q #14->13 {Viitealus} {Coref:1329.19}
+	"tema" Ld P pers ps3 pl part @<Q #14->13 {Viitealus} {Pronoomen} {Coref:1329.19}
 "<,>"
 	"," Z Com #15->15
 "<kes>"

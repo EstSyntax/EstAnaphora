@@ -4039,7 +4039,7 @@
 "<oli>"
 	"ole" Li V main indic impf ps3 sg ps af @FMV #8->0
 "<neid>"
-	"tema" Ld P pers ps3 pl part @SUBJ #9->8 {Viitealus} {Coref:125.16}
+	"tema" Ld P pers ps3 pl part @SUBJ #9->8 {Viitealus} {Pronoomen} {Coref:125.16}
 "<,>"
 	"," Z Com #10->10
 "<kelle>"
@@ -9549,7 +9549,7 @@
 "<on>"
 	"ole" L0 V main indic pres ps3 sg ps af @FMV #14->2
 "<see>"
-	"see" L0 P dem sg nom @SUBJ #15->14 {Viitealus} {Coref:323.19}
+	"see" L0 P dem sg nom @SUBJ #15->14 {Viitealus} {Pronoomen} {Coref:323.19}
 "<,>"
 	"," Z Com #16->16
 "<kes>"
@@ -11181,7 +11181,7 @@
 "<s id="368">"
 
 "<Sellel>"
-	"see" Ll P dem sg ad @ADVL #1->10 {Viitealus} {Coref:368.8}
+	"see" Ll P dem sg ad @ADVL #1->10 {Viitealus} {Pronoomen} {Coref:368.8}
 "<,>"
 	"," Z Com #2->2
 "<mis>"
@@ -14945,7 +14945,7 @@
 "<s id="481">"
 
 "<Need>"
-	"see" Ld P dem pl nom @SUBJ #1->12 {Viitealus} {Coref:481.5}
+	"see" Ld P dem pl nom @SUBJ #1->12 {Viitealus} {Pronoomen} {Coref:481.5}
 "<,>"
 	"," Z Com #2->2
 "<kes>"
@@ -16545,7 +16545,7 @@
 "<turustame>"
 	"turusta" Lme V main indic pres ps1 pl ps af @FMV #2->0
 "<seda>"
-	"see" Lda P dem sg part @OBJ #3->2 {Viitealus} {Coref:538.7}
+	"see" Lda P dem sg part @OBJ #3->2 {Viitealus} {Pronoomen} {Coref:538.7}
 "<,>"
 	"," Z Com #4->4
 "<mida>"
@@ -22587,7 +22587,7 @@
 "<alati>"
 	"alati" L0 D @ADVL #6->7
 "<see>"
-	"see" L0 P dem sg nom @PRD #7->3 {Viitealus} {Coref:729.16}
+	"see" L0 P dem sg nom @PRD #7->3 {Viitealus} {Pronoomen} {Coref:729.16}
 "<,>"
 	"," Z Com #8->8
 "<kes>"
@@ -31839,7 +31839,7 @@
 "<rõõmu>"
 	"rõõm" L0 S com sg part @OBJ #3->1
 "<selle>"
-	"see" L0 P dem sg gen @P> #4->5 {Viitealus} {Coref:1016.11}
+	"see" L0 P dem sg gen @P> #4->5 {Viitealus} {Pronoomen} {Coref:1016.11}
 "<üle>"
 	"üle" L0 K post @<KN #5->3
 "<,>"
@@ -32437,7 +32437,7 @@
 "<ainult>"
 	"ainult" L0 D @DN> #8->9
 "<need>"
-	"see" Ld P dem pl nom @SUBJ #9->19 {Viitealus} {Coref:1039.15}
+	"see" Ld P dem pl nom @SUBJ #9->19 {Viitealus} {Pronoomen} {Coref:1039.15}
 "<,>"
 	"," Z Com #10->10
 "<kellel>"
@@ -41929,7 +41929,7 @@
 "<leidub>"
 	"leidu" Lb V main indic pres ps3 sg ps af @FMV #2->0
 "<neid>"
-	"tema" Ld P pers ps3 pl part @SUBJ #3->2 {Viitealus} {Coref:1325.12,1325.18}
+	"tema" Ld P pers ps3 pl part @SUBJ #3->2 {Viitealus} {Pronoomen} {Coref:1325.12,1325.18}
 "<,>"
 	"," Z Com #4->4
 "<kes>"
@@ -50621,7 +50621,7 @@
 "<Kõigel>"
 	"kõik" Ll P det sg ad @NN> #1->2
 "<sellel>"
-	"see" Ll P dem sg ad @ADVL #2->9 {Viitealus} {Coref:1604.7}
+	"see" Ll P dem sg ad @ADVL #2->9 {Viitealus} {Pronoomen} {Coref:1604.7}
 "<,>"
 	"," Z Com #3->3
 "<mis>"
@@ -54359,7 +54359,7 @@
 "<s id="1704">"
 
 "<See>"
-	"see" L0 P dem sg nom @SUBJ #1->8 {Viitealus} {Coref:1704.4,1704.6}
+	"see" L0 P dem sg nom @SUBJ #1->8 {Viitealus} {Pronoomen} {Coref:1704.4,1704.6}
 "<,>"
 	"," Z Com #2->2
 "<mis>"
@@ -57527,7 +57527,7 @@
 "<näide>"
 	"näide" L0 S com sg nom @PRD #12->11
 "<sellest>"
-	"see" Lst P dem sg el @<NN #13->12 {Viitealus} {Coref:1799.17}
+	"see" Lst P dem sg el @<NN #13->12 {Viitealus} {Pronoomen} {Coref:1799.17}
 "<,>"
 	"," Z Com #14->14
 "<mis>"
@@ -60593,7 +60593,7 @@
 "<ise>"
 	"ise" L0 P pos det refl sg nom @<NN #34->31
 "<see>"
-	"see" L0 P dem sg nom @SUBJ #35->33 {Viitealus} {Coref:1891.38}
+	"see" L0 P dem sg nom @SUBJ #35->33 {Viitealus} {Pronoomen} {Coref:1891.38}
 "<,>"
 	"," Z Com #36->36
 "<kes>"
@@ -61293,7 +61293,7 @@
 "<mitte>"
 	"mitte" L0 D @DN> #18->19
 "<see>"
-	"see" L0 P dem sg nom @SUBJ #19->7 {Viitealus} {Coref:1912.23}
+	"see" L0 P dem sg nom @SUBJ #19->7 {Viitealus} {Pronoomen} {Coref:1912.23}
 "<,>"
 	"," Z Com #20->20
 "<kellel>"
@@ -61377,7 +61377,7 @@
 "<hakkas>"
 	"hakka" Ls V main indic impf ps3 sg ps af @FMV #16->10
 "<sellel>"
-	"see" Ll P dem sg ad @ADVL #17->16 {Viitealus} {Coref:1914.21}
+	"see" Ll P dem sg ad @ADVL #17->16 {Viitealus} {Pronoomen} {Coref:1914.21}
 "<,>"
 	"," Z Com #18->18
 "<kellel>"
@@ -63189,7 +63189,7 @@
 "<vastavalt>"
 	"vastavalt" L0 K pre @ADVL #7->6
 "<sellele>"
-	"see" Lle P dem sg all @<P #8->7 {Viitealus} {Coref:2005.14}
+	"see" Lle P dem sg all @<P #8->7 {Viitealus} {Pronoomen} {Coref:2005.14}
 "<,>"
 	"," Z Com #9->9
 "<mis>"
@@ -64559,7 +64559,7 @@
 "<pakub>"
 	"pakku" Lb V main indic pres ps3 sg ps af @FMV #8->3
 "<seda>"
-	"see" Lda P dem sg part @OBJ #9->8 {Viitealus} {Coref:2045.15}
+	"see" Lda P dem sg part @OBJ #9->8 {Viitealus} {Pronoomen} {Coref:2045.15}
 "<,>"
 	"," Z Com #10->10
 "<mida>"
@@ -68709,7 +68709,7 @@
 "<detailid>"
 	"detail" Ld S com pl nom @SUBJ #15->13
 "<need>"
-	"see" Ld P dem pl nom @PRD #16->13 {Viitealus} {Coref:2159.21}
+	"see" Ld P dem pl nom @PRD #16->13 {Viitealus} {Pronoomen} {Coref:2159.21}
 "<,>"
 	"," Z Com #17->17
 "<mis>"
@@ -77297,7 +77297,7 @@
 "<on>"
 	"ole" L0 V aux indic pres ps3 sg ps af @FCV #2->5
 "<mind>"
-	"mina" Ld P pers ps1 sg part @OBJ #3->5 {Viitealus} {Coref:2395.5}
+	"mina" Ld P pers ps1 sg part @OBJ #3->5 {Viitealus} {Pronoomen} {Coref:2395.5}
 "<alati>"
 	"alati" L0 D @ADVL #4->5
 "<aidanud>"

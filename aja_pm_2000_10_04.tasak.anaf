@@ -1025,7 +1025,7 @@
 "<teha>"
 	"tege" La V main inf @OBJ #7->4
 "<nendelegi>"
-	"tema" Ldelegi P pers ps3 pl all @ADVL #8->7 {Viitealus} {Coref:29.13}
+	"tema" Ldelegi P pers ps3 pl all @ADVL #8->7 {Viitealus} {Pronoomen} {Coref:29.13}
 "<,>"
 	"," Z Com #9->9
 "<kes>"
@@ -1181,7 +1181,7 @@
 "<,>"
 	"," Z Com #12->12
 "<sellele>"
-	"see" Lle P dem sg all @ADVL #13->14 {Viitealus} {Coref:34.7,34.10}
+	"see" Lle P dem sg all @ADVL #13->14 {Viitealus} {Pronoomen} {Coref:34.7,34.10}
 "<on>"
 	"ole" L0 V main indic pres ps3 sg ps af @FMV #14->20
 "<õpetaja>"
@@ -8579,7 +8579,7 @@
 "<leidub>"
 	"leidu" Lb V main indic pres ps3 sg ps af @FMV #10->4
 "<neid>"
-	"tema" Ld P pers ps3 pl part @SUBJ #11->10 {Viitealus} {Coref:238.20}
+	"tema" Ld P pers ps3 pl part @SUBJ #11->10 {Viitealus} {Pronoomen} {Coref:238.20}
 "<,>"
 	"," Z Com #12->12
 "<kes>"
@@ -19529,7 +19529,7 @@
 "<ka>"
 	"ka" L0 D @ADVL #17->16
 "<neid>"
-	"tema" Ld P pers ps3 pl part @SUBJ #18->16 {Viitealus} {Coref:540.27}
+	"tema" Ld P pers ps3 pl part @SUBJ #18->16 {Viitealus} {Pronoomen} {Coref:540.27}
 "<,>"
 	"," Z Com #19->19
 "<kes>"
@@ -29847,7 +29847,7 @@
 "<ka>"
 	"ka" L0 D @ADVL #6->5
 "<neid>"
-	"tema" Ld P pers ps3 pl part @OBJ #7->5 {Viitealus} {Coref:812.13}
+	"tema" Ld P pers ps3 pl part @OBJ #7->5 {Viitealus} {Pronoomen} {Coref:812.13}
 "<,>"
 	"," Z Com #8->8
 "<kes>"

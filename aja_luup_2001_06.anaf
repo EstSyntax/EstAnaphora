@@ -205,7 +205,7 @@
 "<ka>"
 	"ka" L0 D @DN> #3->4
 "<neid>"
-	"see" Ld P dem pl part @OBJ #4->2 {Viitealus} {Coref:8.8}
+	"see" Ld P dem pl part @OBJ #4->2 {Viitealus} {Pronoomen} {Coref:8.8}
 "<,>"
 	"," Z Com #5->5
 "<kelle>"
@@ -225,7 +225,7 @@
 "<ka>"
 	"ka" L0 D @DN> #13->14
 "<neid>"
-	"see" Ld P dem pl part @OBJ #14->4 {Viitealus} {Coref:8.17}
+	"see" Ld P dem pl part @OBJ #14->4 {Viitealus} {Pronoomen} {Coref:8.17}
 "<,>"
 	"," Z Com #15->15
 "<kellele>"
@@ -2623,7 +2623,7 @@
 "<ehk>"
 	"ehk" L0 J crd @J #2->3
 "<neid>"
-	"tema" Ld P pers ps3 pl part @SUBJ #3->1 {Viitealus} {Coref:73.7}
+	"tema" Ld P pers ps3 pl part @SUBJ #3->1 {Viitealus} {Pronoomen} {Coref:73.7}
 "<,>"
 	"," Z Com #4->4
 "<kelle>"
@@ -9223,7 +9223,7 @@
 "<s id="282">"
 
 "<Neil>"
-	"tema" Ll P pers ps3 pl ad @ADVL #1->9 {Viitealus} {Coref:282.6}
+	"tema" Ll P pers ps3 pl ad @ADVL #1->9 {Viitealus} {Pronoomen} {Coref:282.6}
 "<,>"
 	"," Z Com #2->2
 "<kes>"
@@ -13925,7 +13925,7 @@
 "<10%>"
 	"10%" L0 N card sg gen @<P #5->4
 "<sellest>"
-	"see" Lst P dem sg el @<NN #6->5 {Viitealus} {Coref:429.10}
+	"see" Lst P dem sg el @<NN #6->5 {Viitealus} {Pronoomen} {Coref:429.10}
 "<,>"
 	"," Z Com #7->7
 "<mida>"
@@ -21085,7 +21085,7 @@
 "<,>"
 	"," Z Com #13->13
 "<mina>"
-	"mina" L0 P pers ps1 sg nom @<NN #14->12 {Viitealus} {Coref:646.2}
+	"mina" L0 P pers ps1 sg nom @<NN #14->12 {Viitealus} {Pronoomen} {Coref:646.2}
 "<kui>"
 	"kui" L0 J crd @J #15->17
 "<paljud>"
@@ -23927,7 +23927,7 @@
 "<just>"
 	"just" L0 D @DN> #3->4
 "<nende>"
-	"tema" Lde P pers ps3 pl gen @P> #4->5 {Viitealus} {Coref:724.8}
+	"tema" Lde P pers ps3 pl gen @P> #4->5 {Viitealus} {Pronoomen} {Coref:724.8}
 "<poolt>"
 	"poolt" L0 K post @ADVL #5->2
 "<,>"
@@ -32333,7 +32333,7 @@
 "<aitama>"
 	"aita" Lma V main sup ps ill @IMV #53->41
 "<neid>"
-	"tema" Ld P pers ps3 pl part @OBJ #54->53 {Viitealus} {Coref:991.58}
+	"tema" Ld P pers ps3 pl part @OBJ #54->53 {Viitealus} {Pronoomen} {Coref:991.58}
 "<,>"
 	"," Z Com #55->55
 "<kes>"
@@ -34339,7 +34339,7 @@
 "<mõtle>"
 	"mõtle" L0 V main indic pres ps neg @FMV #12->9
 "<sellele>"
-	"see" Lle P dem sg all @ADVL #13->12 {Viitealus} {Coref:1061.16}
+	"see" Lle P dem sg all @ADVL #13->12 {Viitealus} {Pronoomen} {Coref:1061.16}
 "<,>"
 	"," Z Com #14->14
 "<mis>"
@@ -35019,7 +35019,7 @@
 "<->"
 	"-" Z Dsh #8->8
 "<neid>"
-	"tema" Ld P pers ps3 pl part @SUBJ #9->5 {Viitealus} {Coref:1088.14,1088.18}
+	"tema" Ld P pers ps3 pl part @SUBJ #9->5 {Viitealus} {Pronoomen} {Coref:1088.14,1088.18}
 "<,>"
 	"," Z Com #10->10
 "<kes>"
@@ -35689,7 +35689,7 @@
 "<suhtuta>"
 	"suhtu" Lta V main indic pres imps neg @FMV #9->3
 "<neisse>"
-	"tema" Lsse P pers ps3 pl ill @ADVL #10->9 {Viitealus} {Coref:1111.13}
+	"tema" Lsse P pers ps3 pl ill @ADVL #10->9 {Viitealus} {Pronoomen} {Coref:1111.13}
 "<,>"
 	"," Z Com #11->11
 "<kes>"
@@ -35949,7 +35949,7 @@
 "<saab>"
 	"saa" Lb V mod indic pres ps3 sg ps af @FCV #2->1
 "<seda>"
-	"see" Lda P dem sg part @OBJ #3->1 {Viitealus} {Coref:1125.8,1125.11}
+	"see" Lda P dem sg part @OBJ #3->1 {Viitealus} {Pronoomen} {Coref:1125.8,1125.11}
 "<,>"
 	"," Z Com #4->4
 "<kes>"
@@ -35973,7 +35973,7 @@
 "<s id="1126">"
 
 "<Neid>"
-	"tema" Ld P pers ps3 pl part @OBJ #1->0 {Viitealus} {Coref:1126.14}
+	"tema" Ld P pers ps3 pl part @OBJ #1->0 {Viitealus} {Pronoomen} {Coref:1126.14}
 "<,>"
 	"," Z Com #2->2
 "<kes>"
@@ -36055,7 +36055,7 @@
 "<olla>"
 	"ole" La V main inf @OBJ #4->2
 "<see>"
-	"see" L0 P dem sg nom @PRD #5->4 {Viitealus} {Coref:1129.9}
+	"see" L0 P dem sg nom @PRD #5->4 {Viitealus} {Pronoomen} {Coref:1129.9}
 "<,>"
 	"," Z Com #6->6
 "<kes>"
@@ -40857,7 +40857,7 @@
 "<põhineb>"
 	"põhine" Lb V main indic pres ps3 sg ps af @FMV #7->0
 "<sellel>"
-	"see" Ll P dem sg ad @ADVL #8->7 {Viitealus} {Coref:1269.13,1269.15}
+	"see" Ll P dem sg ad @ADVL #8->7 {Viitealus} {Pronoomen} {Coref:1269.13,1269.15}
 "<,>"
 	"," Z Com #9->9
 "<mida>"
@@ -40891,7 +40891,7 @@
 "<arv>"
 	"arv" L0 S com sg nom @SUBJ #6->4
 "<neid>"
-	"tema" Ld P pers ps3 pl part @<NN #7->6 {Viitealus} {Coref:1270.10}
+	"tema" Ld P pers ps3 pl part @<NN #7->6 {Viitealus} {Pronoomen} {Coref:1270.10}
 "<,>"
 	"," Z Com #8->8
 "<kes>"
@@ -40919,7 +40919,7 @@
 "<sõltume>"
 	"sõltu" Lme V main indic pres ps1 pl ps af @FMV #4->0
 "<sellest>"
-	"see" Lst P dem sg el @ADVL #5->4 {Viitealus} {Coref:1271.10}
+	"see" Lst P dem sg el @ADVL #5->4 {Viitealus} {Pronoomen} {Coref:1271.10}
 "<,>"
 	"," Z Com #6->6
 "<mida>"
@@ -43955,7 +43955,7 @@
 "<s id="1369">"
 
 "<Selle>"
-	"see" L0 P dem sg gen @OBJ #1->9 {Viitealus} {Coref:1369.7}
+	"see" L0 P dem sg gen @OBJ #1->9 {Viitealus} {Pronoomen} {Coref:1369.7}
 "<,>"
 	"," Z Com #2->2
 "<millega>"
@@ -44709,7 +44709,7 @@
 "<ning>"
 	"ning" L0 J crd @J #21->34
 "<neid>"
-	"tema" Ld P pers ps3 pl part @OBJ #22->34 {Viitealus} {Coref:1388.25}
+	"tema" Ld P pers ps3 pl part @OBJ #22->34 {Viitealus} {Pronoomen} {Coref:1388.25}
 "<,>"
 	"," Z Com #23->23
 "<kes>"
