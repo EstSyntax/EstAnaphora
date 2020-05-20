@@ -21,8 +21,33 @@ Programmid, mis teisendavad puudepanga formaadis faili brati märgendajale sobiv
 
 Korpuse formaat on Eesti keele sõltuvuspuude panga (EDT) oma, kuhu on lisatud asesõnade ja nende viitealuste märgendid. EDT märgendite kohta vt https://github.com/EstSyntax/EDT/blob/master/syntmargendus.pdf 
 
+## UD Treebank with corefence relations
+
+The same treebank, annotation is in the misc-field. Antecedents havebeen annotated with keyword Antecedent=Sent_No.Word_No,  and words referring to them have the keyword Coref and the address of theantesedent.
+
+```
+# sent_id = aja_ee199920_11
+# text = "Tegutsesime nende võimaluste piirides, mis meile on antud," ütleb ta.
+1	"	"	PUNCT	Z	_	2	punct	_	SpaceAfter=No
+2	Tegutsesime	tegutsema	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	nende	see	DET	P	Case=Gen|Number=Plur|PronType=Dem	4	det	_	Coref=11.10|CorefType=Cl
+4	võimaluste	võimalus	NOUN	S	Case=Gen|Number=Plur	5	nmod	_	Antecedent=11.4
+5	piirides	piir	NOUN	S	Case=Ine|Number=Plur	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Z	_	10	punct	_	_
+7	mis	mis	PRON	P	Case=Nom|Number=Plur|PronType=Int,Rel	10	obj	_	Coref=11.4|CorefType=N
+8	meile	mina	PRON	P	Case=All|Number=Plur|Person=1|PronType=Prs	10	obl	_	Coref=8.2|CorefType=N
+9	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
+10	antud	andma	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	5	acl:relcl	_	Antecedent=11.10|SpaceAfter=No
+11	,	,	PUNCT	Z	_	2	punct	_	SpaceAfter=No
+12	"	"	PUNCT	Z	_	2	punct	_	_
+13	ütleb	ütlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+14	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Coref=9.6|CorefType=N|SpaceAfter=No
+15	.	.	PUNCT	Z	_	2	punct	_	_
+```
+
 ## ChangeLog / Muudatused
 
 - May 2019 Added/lisati 100,000 words/sõna
+- May 2020 UD version of the treebank
 
 
