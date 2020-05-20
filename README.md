@@ -23,7 +23,8 @@ Korpuse formaat on Eesti keele sõltuvuspuude panga (EDT) oma, kuhu on lisatud a
 
 ## UD Treebank with corefence relations
 
-The same treebank, annotation is in the misc-field. Antecedents havebeen annotated with keyword Antecedent=Sent_No.Word_No,  and words referring to them have the keyword Coref and the address of theantesedent.
+The same treebank, annotation is in the misc-field. Antecedents havebeen annotated with keyword Antecedent=Sent_No.Word_No,  and words referring to them have the keyword Coref and the address of the antecedent.
+CorefType indicates whether the antecedent is a noun or a clause.
 
 ```
 # sent_id = aja_ee199920_11
